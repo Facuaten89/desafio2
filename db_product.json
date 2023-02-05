@@ -1,0 +1,13 @@
+{
+    "vinosArgentinos": [
+        {
+            "id": 1,
+            "nombre": "estancia mendoza",
+            "cantidadDeCajas": "30",
+            "unidadesPorCaja": "6",
+            "tipo": "malbec",
+            "caracteristica": "tinto",
+            "procendencia": "lujan de cuyo"
+        }
+    ]
+}
