@@ -1,13 +1,1 @@
-{
-    "vinosArgentinos": [
-        {
-            "id": 1,
-            "nombre": "estancia mendoza",
-            "cantidadDeCajas": "30",
-            "unidadesPorCaja": "6",
-            "tipo": "malbec",
-            "caracteristica": "tinto",
-            "procendencia": "lujan de cuyo"
-        }
-    ]
-}
+{"vinosArgentinos":[{"id":1,"nombre":"estancia mendoza","cantidadDeCajas":"30","unidadesPorCaja":"6","tipo":"malbec","ubicacion":"lujan de cuyo","caracteristica":"tinto"},{"id":2,"cantidadDeCajas":20,"unidadesPorCaja":6,"tipo":"cabernet","ubicacion":"$2a$10$zJTXFEB5Gt.NbVNCaYOgceR1WtNsslFAxu2YgkFp1w0UGLgWtSxbm","caracteristica":"añejo frutado"},{"id":3,"nombreVino":"vino las perdices","cantidadDeCajas":20,"unidadesPorCaja":6,"tipo":"cabernet","ubicacion":"$2a$10$NJIfLBtFxZXG2N7Mh.TqO.jrykpK1VZkta0afqmde9Vde1GIFsTpq","caracteristica":"añejo frutado"}]}
